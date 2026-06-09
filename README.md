@@ -1,4 +1,4 @@
-# 🛡️ Advanced Data Validation & Serialization with Pydantic 
+# Advanced Data Validation and Serialization with Pydantic 
 
 Welcome to the **Pydantic Basics & Use Cases** architecture repository. This module forms the structural core of my data engineering workflow, establishing strict programmatic data enforcement, sanitization and typing mechanics for building production-ready Machine Learning data pipelines.
 
@@ -6,7 +6,7 @@ This repository serves as a deep technical playbook, moving beyond generic type 
 
 ---
 
-## 🏗️ Core Pillars & Technical Architecture
+## 🏗️ Core Pillars and Technical Architecture
 
 The codebase maps out six essential architectural patterns required to transform raw, untrusted data payloads into safe, highly predictable system structures:
 
